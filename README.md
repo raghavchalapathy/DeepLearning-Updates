@@ -1,8 +1,11 @@
 
 
 # KeyNoteSpeech 2020 AAAI 
+The Stacked Capsule Autoencoder By Geoff Hinton
+The Self-Supervised Neural Networks by Yann Le Cunn
+Topics about Conscoiusness and attention
+(https://www.youtube.com/watch?v=UX8OubxsY8w)]
 
-(https://www.youtube.com/watch?v=UX8OubxsY8w)](https://github.com/sindresorhus/awesome)
 
 # Awesome Capsule Networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
