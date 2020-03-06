@@ -6,6 +6,10 @@
   -Topics about Conscoiusness and attention\
 (https://www.youtube.com/watch?v=UX8OubxsY8w)]
 
+# Stacked Capsule Autoencoders
+ - A presentation about SCA (https://www.youtube.com/watch?v=Cc1DEY12r5E)\
+
+
 
 # Awesome Capsule Networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
