@@ -1,9 +1,9 @@
 
 
 # KeyNoteSpeech 2020 AAAI 
-The Stacked Capsule Autoencoder By Geoff Hinton
-The Self-Supervised Neural Networks by Yann Le Cunn
-Topics about Conscoiusness and attention
+  -The Stacked Capsule Autoencoder By Geoff Hinton
+  -The Self-Supervised Neural Networks by Yann Le Cunn
+  -Topics about Conscoiusness and attention
 (https://www.youtube.com/watch?v=UX8OubxsY8w)]
 
 
